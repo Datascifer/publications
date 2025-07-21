@@ -1,4 +1,3 @@
-```markdown
 # 📚 Research Archive Portal
 
 This repository serves as a curated hub for peer-reviewed and non-peer-reviewed publications, technical reports, and research outputs authored or co-authored by [Your Name or Group]. It includes links to official publications, preprints, datasets (when available), and brief summaries for each entry.
